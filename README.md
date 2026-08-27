@@ -7,7 +7,6 @@ I build the layer where physics, frame budgets, and byte budgets have to compose
 - 🎓 MSc Computer Science & Engineering @ TU/e
 - 🎓 BSc Creative Media & Game Technologies @ BUas
 - 🌍 Based in The Netherlands
-- ✉️ [ralphwarrand@gmail.com](mailto:ralphwarrand@gmail.com)
 
 ---
 
@@ -35,10 +34,3 @@ Domain-specific language for NPC behaviour with a source-to-source compiler emit
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-
----
-
-## Philosophy
-* **Profile, then cut.** The optimizations I'm proudest of come from measuring first.
-* **Cross-platform on day one.** Clean HAL, platform-blind gameplay code.
-* **Ship the small thing first.** Concrete artifacts make team decisions faster.
