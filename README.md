@@ -2,13 +2,12 @@
 
 **Engine, Graphics & AI Programmer**
 
-I build the layer where physics, frame budgets, and byte budgets have to compose — engines, renderers, AI systems, emulators, compiler tooling. The work that excites me is anywhere a real-time constraint forces a real engineering decision.
+I build the layer where physics, frame budgets, and byte budgets have to compose engines, renderers, AI systems, emulators, compiler tooling. The work that excites me is anywhere a real-time constraint forces a real engineering decision.
 
 - 🎓 MSc Computer Science & Engineering @ TU/e
 - 🎓 BSc Creative Media & Game Technologies @ BUas
-- 🌍 Based in the Netherlands
+- 🌍 Based in The Netherlands
 - ✉️ [ralphwarrand@gmail.com](mailto:ralphwarrand@gmail.com)
-- 🌐 [ralphwarrand.com](https://ralphwarrand.com)
 
 ---
 
